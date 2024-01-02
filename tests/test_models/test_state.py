@@ -6,7 +6,7 @@ import os
 
 
 class test_state(test_basemodel):
-    """ states test class"""
+    """ the states test class"""
 
     def __init__(self, *args, **kwargs):
         """ state test class init"""
