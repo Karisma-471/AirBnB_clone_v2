@@ -6,7 +6,7 @@ import os
 
 
 class test_Place(test_basemodel):
-    """ place tests class"""
+    """ the place tests class"""
 
     def __init__(self, *args, **kwargs):
         """ init test class"""
