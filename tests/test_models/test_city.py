@@ -6,7 +6,7 @@ import os
 
 
 class test_City(test_basemodel):
-    """ tests for city """
+    """ the tests for city """
 
     def __init__(self, *args, **kwargs):
         """ init the test class"""
