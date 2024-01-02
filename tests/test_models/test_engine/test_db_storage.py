@@ -10,7 +10,7 @@ import os
 @unittest.skipIf(os.getenv('HBNB_TYPE_STORAGE') != 'db',
                  'db_storage test not supported')
 class TestDBStorage(unittest.TestCase):
-    '''testing dbstorage engine'''
+    '''making sure to test the dbstorage engine'''
     def test_new_and_save(self):
         '''testing  the new and save methods'''
         db = MySQLdb.connect(user=os.getenv('HBNB_MYSQL_USER'),
