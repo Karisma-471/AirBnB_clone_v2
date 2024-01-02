@@ -1,6 +1,6 @@
-# AirBnB clone web server setup and configuration
+# Configures a web server for deployment of web_static
 
-# SCRIPT INCOMPLETE. NEEDS SOME MORE THINKING---
+# This is an Nginx configuration file
 $nginx_conf = "server {
     listen 80 default_server;
     listen [::]:80 default_server;
