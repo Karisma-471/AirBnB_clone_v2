@@ -6,7 +6,7 @@ import os
 
 
 class test_review(test_basemodel):
-    """ review test class"""
+    """ the review test class"""
 
     def __init__(self, *args, **kwargs):
         """ review class init"""
