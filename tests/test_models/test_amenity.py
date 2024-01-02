@@ -6,7 +6,7 @@ import os
 
 
 class test_Amenity(test_basemodel):
-    """ amenity test class"""
+    """ the amenity test class"""
 
     def __init__(self, *args, **kwargs):
         """inti the test class """
