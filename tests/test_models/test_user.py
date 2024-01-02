@@ -6,7 +6,7 @@ import os
 
 
 class test_User(test_basemodel):
-    """ test class for user model"""
+    """ the test class for user model"""
 
     def __init__(self, *args, **kwargs):
         """ user test class init"""
